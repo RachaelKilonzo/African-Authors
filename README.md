@@ -1,4 +1,4 @@
-**Title: Novelists Information Retrieval and Data Processing **
+**Title: Novelists Information Retrieval and Data Processing**
 
 **Overview:**
 This is designed to retrieve information about novelists from [ShortForm](https://www.shortform.com/best-books/genre/best-african-books-of-all-time), where I process the retrieved data, and perform various data manipulation tasks to  generate meaningful insights. It primarily focuses on two main functionalities:
